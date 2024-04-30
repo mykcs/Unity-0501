@@ -3,6 +3,12 @@
 
 https://learn.unity.com/pathway/unity-essentials?uv=2021.3
 
+有中文。
+
 一步一步图形化教程，把饭喂到嘴里。不愧是游戏行业。
+
+unity hub
+
+dmg 和github差不多，图形化管理项目软件。
 
 <img width="1920" alt="image" src="https://github.com/mykcs/Unity-0501/assets/165669834/7c86de33-10b3-4325-a39c-dad302cd0fde">
